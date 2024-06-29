@@ -12,8 +12,6 @@
 
 ![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/c152384d-068b-4a37-8364-010c6fd778b3)
 
-
 ![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/58f94981-583b-4a46-a26a-6fe02207f300)
-
 
 ![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/41a2e73d-4544-43c7-a735-13fcec44c1b2)
