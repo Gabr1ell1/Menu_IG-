@@ -1,6 +1,6 @@
 Menu - Exercício JAVA
 
- 💡 <h3>Tela Inicial:</h3>
+ 💡<h3>Tela Inicial:</h3>
 
 ![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/bda7654a-2af0-4d01-ad75-4600ba857051)
 
