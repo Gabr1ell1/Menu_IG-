@@ -1,4 +1,4 @@
-Menu - Exercício JAVA
+<p style="color: blue;">Menu - Exercício JAVA.</p>
 
  💡<h3>Tela Inicial:</h3>
 
