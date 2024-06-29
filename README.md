@@ -7,10 +7,10 @@
 
 <h3>Janelas Modais de Operações :</h3>
 
-![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/10fd7d57-48a0-45be-9ebe-63e24a4f3336)
+![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/10fd7d57-48a0-45be-9ebe-63e24a4f3336)            ![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/c152384d-068b-4a37-8364-010c6fd778b3)
 
 
-![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/c152384d-068b-4a37-8364-010c6fd778b3)
+
 
 ![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/58f94981-583b-4a46-a26a-6fe02207f300)
 
