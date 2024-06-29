@@ -1,8 +1,4 @@
-<svg width="500" height="60">
-  <text x="10" y="40" font-size="40" font-family="Arial" fill="blue">
-    Menu - Exercício JAVA
-  </text>
-</svg>
+# <span style="color: blue;">Menu - Exercício JAVA</span>
 
  💡<h3>Tela Inicial:</h3>
 
