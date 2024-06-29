@@ -1,9 +1,19 @@
-# Menu_IG-
-Menu - Exercício JAVA - Interface Gráfica
+Menu - Exercício JAVA
 
- 💡 <h1>Tela Inicial:</h1>
+ 💡 <h3>Tela Inicial:</h3>
 
-![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/79b4350a-96b0-47b7-9ba1-3d756890dd35)
+![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/bda7654a-2af0-4d01-ad75-4600ba857051)
 
 
-Janelas Modais de Operações :
+<h3>Janelas Modais de Operações :</h3>
+
+![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/10fd7d57-48a0-45be-9ebe-63e24a4f3336)
+
+
+![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/c152384d-068b-4a37-8364-010c6fd778b3)
+
+
+![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/58f94981-583b-4a46-a26a-6fe02207f300)
+
+
+![image](https://github.com/Gabr1ell1/Menu_IG-/assets/133404217/41a2e73d-4544-43c7-a735-13fcec44c1b2)
